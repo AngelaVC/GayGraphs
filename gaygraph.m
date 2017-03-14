@@ -1,5 +1,3 @@
-% Dorea Vierling-Claassen, 3-2011
-% Tweaks by Angela Vierling-Claassen, 12-2011
 % Implementation of gay opinion change on a random graph
 
 clear all
